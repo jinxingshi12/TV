@@ -177,6 +177,35 @@ BRTV国际频道
 淘宝贝
 Bread_TV
 
+TEST,#genre#
+卡通频道
+cartoon
+探索频道
+探索科学
+discovery
+discovery science
+dmax
+hot
+rainbow
+彩虹频道
+环球电视
+universal
+TVN MOVIE
+TVN ASIA
+tvn
+阳光卫视
+星卫娱乐
+卫视电影
+star movies
+美亚电视剧
+天映频道
+celestial movies
+CCM
+CHANNEL V
+FOX
+FOX ACTION MOVIES
+
+
 🌊港·澳·台,#genre#
 凤凰中文
 凤凰资讯
@@ -184,7 +213,6 @@ Bread_TV
 凤凰卫视
 Hoy 78
 myTV SUPER
-
 now直播台
 翡翠台
 tvN
