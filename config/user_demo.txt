@@ -74,8 +74,6 @@ NewTV精品萌宠
 NewTV精品体育
 NewTV精品大剧
 NewTV精品记录
-
-iHOT,#genre#
 爱都市
 爱江湖
 爱解密
@@ -103,7 +101,12 @@ iHOT,#genre#
 爱浪漫
 爱动漫
 
-
+4K,#genre#
+LOVENATURE4K
+Loupe
+华数4K
+纯享4K
+欢笑剧场
 📡卫视频道,#genre#
 北京卫视
 湖南卫视
