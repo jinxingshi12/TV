@@ -180,9 +180,46 @@ Bread_TV
 凤凰香港
 凤凰卫视
 凤凰电影
-翡翠台
+Channel 5 HD
+Channel 8 HD
+Channel U HD
+Hoy 78
+myTV SUPER
+PopC
+ROCK Action
+tvN
+now爆谷台
+now直播台
+Now剧集
+Now华剧
+Now星影台
+黄金翡翠台	
+黄金华剧台	
+千禧经典台
+亚洲剧台
 明珠台
-美亚电影台
+明珠剧集台
+千禧經典台
+娱乐新闻台
+翡翠剧集台
+翡翠台
+翡翠综合台
+C+
+TVB 星河台
+viutv 99
+viutv6 96
+Viutv
+ViuTVsix
+J2
+Animax-HK
+KIX
+Love Nature HD
+Nick Jr
+Nickelodeon
+ROCK Action
+Thrill
+ZooMo
+美亚电影
 港台电视31
 港台电视32
 港台电视33
@@ -192,29 +229,13 @@ Bread_TV
 TVBS亚洲
 香港卫视
 卫视卡式
-C+
 亚旅卫视
 天映经典
 天映电影
 星河
 星空卫视
-纬来体育
-纬来育乐
-J2
-Viutv
-ViuTVsix
-now爆谷台
-now直播台
-Now剧集
-Now华剧
-thrills
-黄金翡翠台	
-黄金华剧台	
-千禧经典台
-亚洲剧台
 华语剧台
 娱乐新闻台
-戏曲台
 SUPER Kids Channel
 POPC电影台
 tvN
@@ -285,15 +306,17 @@ OCN thrills
 中天亚州
 外语电影
 韩剧轮播
-法国24电视
+
 TV5MONDE
-阿里郎电视
 亚洲旅游
 MOMO综合
 MOMO亲子
 纬来电影
 德国之声
 美国之音
+法国24电视
+DW
+France 24
 人间卫视
 TVBS新闻
 ELEVEN1
@@ -352,6 +375,7 @@ IPTV经典电影
 爱动漫
 中录动漫
 宝宝动画
+Nick Jr
 CN卡通
 优漫卡通
 金鹰卡通
