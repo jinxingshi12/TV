@@ -184,8 +184,7 @@ Bread_TV
 凤凰卫视
 Hoy 78
 myTV SUPER
-PopC
-ROCK Action
+
 now直播台
 翡翠台
 tvN
@@ -197,8 +196,6 @@ viutv6 96
 Viutv
 ViuTVsix
 J2
-Animax-HK
-Nickelodeon
 ZooMo
 Channel 5 HD
 Channel 8 HD
@@ -322,6 +319,9 @@ tvN
 爱尔达影剧台
 外语电影
 CatchPlay电影台
+Animax-HK
+PopC
+ROCK Action
 HBO
 HBO家庭
 HBO强档
@@ -352,6 +352,13 @@ Now星影台
 娱乐新闻台
 
 🪁动画频道,#genre#
+MOMO亲子
+Nick Jr
+Nickelodeon
+CN卡通
+迪士尼频道
+Disney_Junior
+SUPER Kids Channel
 少儿动画
 卡酷动画
 动漫秀场
@@ -362,12 +369,6 @@ Now星影台
 宝宝动画
 精选动漫
 经典卡通
-MOMO亲子
-Nick Jr
-CN卡通
-迪士尼频道
-Disney_Junior
-SUPER Kids Channel
 优漫卡通
 金鹰卡通
 睛彩少儿
