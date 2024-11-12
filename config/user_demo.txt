@@ -48,7 +48,6 @@ SiTV生活时尚
 SiTV都市剧场
 哒啵赛事
 黑莓动画
-黑莓电影
 NewTV超级电影
 NewTV超级电视
 NewTV超级体育
@@ -107,6 +106,9 @@ Loupe
 华数4K
 纯享4K
 欢笑剧场
+爱上4K
+4K超清
+
 📡卫视频道,#genre#
 北京卫视
 湖南卫视
@@ -169,8 +171,6 @@ BRTV纪实科教
 BRTV卡酷少儿
 BRTV体育休闲
 BRTV国际频道
-爱上4K
-4K超清
 淘剧场
 都市剧场
 淘娱乐
@@ -182,30 +182,13 @@ Bread_TV
 凤凰资讯
 凤凰香港
 凤凰卫视
-凤凰电影
-Channel 5 HD
-Channel 8 HD
-Channel U HD
 Hoy 78
 myTV SUPER
 PopC
 ROCK Action
-tvN
-now爆谷台
 now直播台
-Now剧集
-Now华剧
-Now星影台
-黄金翡翠台	
-黄金华剧台	
-千禧经典台
-亚洲剧台
-明珠台
-明珠剧集台
-千禧經典台
-娱乐新闻台
-翡翠剧集台
 翡翠台
+tvN
 翡翠综合台
 C+
 TVB 星河台
@@ -215,115 +198,83 @@ Viutv
 ViuTVsix
 J2
 Animax-HK
-KIX
-Love Nature HD
-Nick Jr
 Nickelodeon
-ROCK Action
-Thrill
 ZooMo
-美亚电影
+Channel 5 HD
+Channel 8 HD
+Channel U HD
 港台电视31
 港台电视32
 港台电视33
 香港开电视
 有线18台
-有线电影台
 TVBS亚洲
 香港卫视
-卫视卡式
 亚旅卫视
-天映经典
-天映电影
 星河
 星空卫视
-华语剧台
 娱乐新闻台
-SUPER Kids Channel
-POPC电影台
-tvN
+明珠台
 澳视澳门
 澳门MACAU
 澳门信息
 澳门综艺
 澳亚卫视
-莲花卫视
-东森电影
-龙祥电影
 Smithsonian Channel
 JET TV
 罪案侦缉频道
 TSN
 TLC旅游生活
 AXN
-动物星球
-探索频道
-探索科学
 Animax HD
 NBA
 TSN 4
-EYETV旅游
-国家地理野生
 Warner TV
 BBC lifestyle
 BBC earth
 CINEMAX HD
 Travel Channel
-ESPN
-DW
 CNBC
-历史频道
-历史频道2
 MTV LIVE
-新唐人亚太台
 SOOTV2
 TVN
 CHANNEL A
 INET
 YTN
-OCN
-OCN movies
-迪士尼JU
 SBS plus
 OCN thrills
 星卫娱乐
-国家地理
-动物星球
-亚洲旅游
 中天亚州
-
 韩剧轮播
 TV5MONDE
 亚洲旅游
 MOMO综合
-MOMO亲子
-纬来电影
-德国之声
-美国之音
-法国24电视
-DW
-France 24
 人间卫视
-TVBS新闻
-ELEVEN1
-ELEVEN2
-ELTV生活英语
-LiveABC交互英语
-LUXE TV
-半岛国际新闻
 好消息2
 新唐人亚太
 爱尔达生活旅游
 猪哥亮歌厅秀
-精选动漫
-经典卡通
-经典电影
-美食星球
 亚州旅游
 亚州综合
 龙华经典
-龙华电影
 生活英语
+
+🎬记录频道,#genre#
+国家地理
+国家地理野生
+探索频道
+探索科学
+历史频道
+历史频道2
+动物星球
+LUXE TV
+LOVENATURE4K
+EYETV旅游
+亚洲旅游
+美食星球
+ELTV生活英语
+LiveABC交互英语
+
 
 🎬娱乐频道,#genre#
 CCTV-15
@@ -332,6 +283,8 @@ CCTV-15
 音乐之声
 潮流音乐
 天津音乐
+
+🎬电影频道,#genre#
 CHC家庭影院
 CHC动作电影
 CHC高清电影
@@ -341,8 +294,26 @@ CHC影迷频道
 光影
 喜剧影院
 家庭影院
-星卫HD电影
+POPC电影台
+KIX
+凤凰电影
+ROCK Action
+Thrill
 美亚电影
+经典电影
+莲花卫视
+东森电影
+龙祥电影
+黑莓电影
+天映经典
+天映电影
+now爆谷台
+tvN
+有线电影台
+美亚电影
+纬来电影
+龙华电影
+星卫HD电影
 卫视中文
 卫视电影
 好莱坞电影
@@ -355,16 +326,30 @@ HBO
 HBO家庭
 HBO强档
 HBO原创
-黑莓电影
-纬来电影
-靖天映画
-靖天戏剧
+OCN
+OCN movies
+卫视卡式
 星卫娱乐
 艾尔达娱乐
 经典电影
 IPTV经典电影
 私人影院
 
+🎬视剧频道,#genre#
+华语剧台
+Now剧集
+Now华剧
+Now星影台
+黄金翡翠台	
+黄金华剧台	
+千禧经典台
+亚洲剧台
+明珠剧集台
+千禧經典台
+翡翠剧集台
+
+🪁新闻频道,#genre#
+娱乐新闻台
 
 🪁动画频道,#genre#
 少儿动画
@@ -375,11 +360,16 @@ IPTV经典电影
 爱动漫
 中录动漫
 宝宝动画
+精选动漫
+经典卡通
+MOMO亲子
 Nick Jr
 CN卡通
 迪士尼频道
 迪士尼_Junior
 Disney_Junior
+SUPER Kids Channel
+迪士尼JU
 优漫卡通
 金鹰卡通
 睛彩少儿
@@ -400,6 +390,14 @@ Disney_Junior
 
 
 国际,#genre#
+France 24
+TVBS新闻
+半岛国际新闻
+DW
+德国之声
+美国之音
+法国24电视
+新唐人亚太台
 Toonmax_TV
 TVS2
 VOA美国之音
