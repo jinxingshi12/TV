@@ -23,6 +23,13 @@ CETV3
 CETV4
 
 💰数字频道,#genre#
+LOVENATURE4K
+Loupe
+华数4K
+纯享4K
+欢笑剧场
+爱上4K
+4K超清
 文化精品
 风云音乐
 第一剧场
@@ -100,14 +107,6 @@ NewTV精品记录
 爱浪漫
 爱动漫
 
-4K,#genre#
-LOVENATURE4K
-Loupe
-华数4K
-纯享4K
-欢笑剧场
-爱上4K
-4K超清
 
 📡卫视频道,#genre#
 北京卫视
@@ -177,40 +176,16 @@ BRTV国际频道
 淘宝贝
 Bread_TV
 
-TEST,#genre#
-卡通频道
-cartoon
-探索频道
-探索科学
-discovery
-discovery science
-dmax
-hot
-rainbow
-彩虹频道
-环球电视
-universal
-TVN MOVIE
-TVN ASIA
-tvn
-阳光卫视
-星卫娱乐
-卫视电影
-star movies
-美亚电视剧
-天映频道
-celestial movies
-CCM
-CHANNEL V
-FOX
-FOX ACTION MOVIES
-
 
 🌊港·澳·台,#genre#
 凤凰中文
 凤凰资讯
 凤凰香港
 凤凰卫视
+阳光卫视
+环球电视
+星卫娱乐
+CHANNEL V
 Hoy 78
 myTV SUPER
 now直播台
@@ -292,6 +267,7 @@ MOMO综合
 历史频道
 历史频道2
 动物星球
+history
 LUXE TV
 LOVENATURE4K
 EYETV旅游
@@ -299,6 +275,9 @@ EYETV旅游
 美食星球
 ELTV生活英语
 LiveABC交互英语
+discovery
+discovery science
+dmax
 
 
 🎬娱乐频道,#genre#
@@ -334,6 +313,16 @@ Thrill
 天映电影
 now爆谷台
 tvN
+celestial movies
+天映频道
+CCM
+FOX
+FOX ACTION MOVIES
+卫视电影
+star movies
+美亚电视剧
+TVN MOVIE
+TVN ASIA
 有线电影台
 美亚电影
 纬来电影
@@ -364,6 +353,10 @@ IPTV经典电影
 私人影院
 
 🎬视剧频道,#genre#
+
+
+🪁新闻频道,#genre#
+娱乐新闻台
 华语剧台
 Now剧集
 Now华剧
@@ -375,9 +368,6 @@ Now星影台
 明珠剧集台
 千禧經典台
 翡翠剧集台
-
-🪁新闻频道,#genre#
-娱乐新闻台
 
 🪁动画频道,#genre#
 MOMO亲子
