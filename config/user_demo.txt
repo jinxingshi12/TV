@@ -190,7 +190,8 @@ Hoy 78
 myTV SUPER
 now直播台
 翡翠台
-tvN
+神州新聞台
+東方衛視國際頻道
 翡翠综合台
 C+
 TVB 星河台
@@ -267,6 +268,9 @@ MOMO综合
 历史频道
 历史频道2
 动物星球
+達文西頻道
+中國環球電視網-記錄頻道
+影迷數位紀實台
 history
 LUXE TV
 LOVENATURE4K
@@ -281,6 +285,7 @@ dmax
 
 
 🎬娱乐频道,#genre#
+MTV Live HD 音樂頻道
 CCTV-15
 风云音乐
 音乐现场
@@ -301,6 +306,13 @@ CHC影迷频道
 POPC电影台
 KIX
 凤凰电影
+影迷數位電影台
+龙华电影
+靖天电影
+龍華影劇
+愛爾達影劇台
+愛爾達日韓台
+中国电影频道
 ROCK Action
 Thrill
 美亚电影
@@ -370,6 +382,13 @@ Now星影台
 翡翠剧集台
 
 🪁动画频道,#genre#
+愛放 ifun 動漫台
+i-Fun 動漫台
+龙华卡通
+龍華卡通
+靖天卡通
+靖天映畫
+靖洋卡通
 MOMO亲子
 Nick Jr
 Nickelodeon
