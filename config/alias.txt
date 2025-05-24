@@ -74,6 +74,20 @@ CETV早教,CETV早期教育,早期教育
 CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 
+
+
+
+
+
+
+河北经济生活,河北经济生活高清
+河北都市,河北都市高清
+河北影视剧,河北影视剧高清
+河北少儿科教,河北少儿科教高清
+河北公共,河北公共高清
+河北农民,河北农民高清
+睛彩河北
+河北杂技频道
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
 NewTV超级电影,超级电影,NEWTV超级电影
@@ -166,12 +180,11 @@ TVB经典台,TVB经典台,TVB 经典台,
 ViuTV,ViuTV,Viutv,VIUTV,VIUTV1,
 ViuTV6,ViuTV6,VIUTV 6,VIUTV6,Viu6,ViuTVsix,ViuTV 6,
 ViuTV69,ViuTV69,VIUTV 69,Viu TV 69,ViuTV 69,
-RTHK31,RTHK31,RTHK 31,RHK 31,
-RTHK32,RTHK32,RTHK 32,RHK 32,
-RTHK32,RTHK32,RTHK 32,RHK 32,
-RTHK33,RTHK33,RTHK 33,RHK 33,
-RTHK34,RTHK34,RTHK 34,RHK 34,
-RTHK35,RTHK35,RTHK 35,RHK 35,
+RTHK31,RTHK31,RTHK 31,RHK 31,港台电视31
+RTHK32,RTHK32,RTHK 32,RHK 32,港台电视32
+RTHK33,RTHK33,RTHK 33,RHK 33,港台电视33
+RTHK34,RTHK34,RTHK 34,RHK 34,港台电视34
+RTHK35,RTHK35,RTHK 35,RHK 35,港台电视35
 NOW星影台,NOW星影台,NOW 星影,NOW星影,
 NOW爆谷台,NOW爆谷台,NOW 爆谷,NOW爆谷,
 HOYTV,HOYTV,HOY TV,
@@ -181,6 +194,8 @@ HOY国际财经台,HOY国际财经台,HOY 国际财经台,HOY國際財經台,
 HOY资讯台,HOY资讯台,HOY 资讯台,HOY資訊台,
 iNews 新闻台,iNews 新闻台,iNews新聞台,
 无线财经资讯台,无线财经资讯台,無線財經資訊台,
+
+
 
 重庆新闻,重庆新闻,重庆新闻超高清,重庆新闻频道,
 
@@ -412,7 +427,7 @@ Rock Entertainment,Rock Entertainment,RockEntertainment,
 金光布袋戏,金光布袋戏,金光布袋戲,
 霹雳布袋戏,霹雳布袋戏,霹靂布袋戲,
 DreamWorks 梦工厂动画,DreamWorks 梦工厂动画,DreamWorks 夢工廠動畫,
-Nick Jr. 儿童频道,Nick Jr. 儿童频道,Nick Jr. 兒童頻道,nickjr,
+Nick Jr,Nick Jr. 儿童频道,Nick Jr. 儿童频道,Nick Jr. 兒童頻道,nickjr,
 i-Fun 动漫台,i-Fun 动漫台,i-Fun 動漫台,
 儿童卡通台,儿童卡通台,兒童卡通台,
 精选动漫台,精选动漫台,精選動漫台,
