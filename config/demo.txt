@@ -3,6 +3,8 @@ CCTV-1
 CCTV-2
 CCTV-3
 CCTV-4
+CCTV-4美洲
+CCTV-4欧洲
 CCTV-5
 CCTV-5+
 CCTV-6
@@ -21,6 +23,9 @@ CETV1
 CETV2
 CETV3
 CETV4
+CETV早教
+CGTN英语
+CGTN俄语
 
 💰数字频道,#genre#
 LOVENATURE4K
@@ -43,16 +48,16 @@ Loupe
 求索生活
 求索动物
 求索科学
-SiTV七彩戏剧
-SiTV东方财经
-SiTV全纪实台
-SiTV动漫秀场
-SiTV新视觉台
-SiTV欢笑剧场
-SiTV法治天地
-SiTV游戏风云
-SiTV生活时尚
-SiTV都市剧场
+七彩戏剧,SiTV七彩戏剧
+东方财经,SiTV东方财经
+全纪实台,SiTV全纪实台
+动漫秀场,SiTV动漫秀场
+新视觉台,SiTV新视觉台
+欢笑剧场,SiTV欢笑剧场
+法治天地,SiTV法治天地
+游戏风云,SiTV游戏风云
+生活时尚,SiTV生活时尚
+都市剧场,SiTV都市剧场
 哒啵赛事
 黑莓动画
 NewTV超级电影
