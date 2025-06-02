@@ -233,9 +233,9 @@ Bread_TV
 
 
 🌊港·澳,#genre#
-星光视界
 凤凰卫视中文台
 凤凰卫视资讯台
+星光视界
 J2
 翡翠台
 TVB Plus
@@ -399,9 +399,26 @@ EVE
 Inultra
 美食星球
 节目预告
+🎬新马,#genre#
+8TV
+Arirang TV	
+Astro 全佳 Quanjia
+Astro 欢喜 Huahee
+Astro双星 ShuangXing
 
-
-	
+Astro AOD 351
+Astro AOD 352
+Astro AOD 353
+Astro AOD 354
+Astro AOD 355
+Astro 小太阳 Xiaotaiyang
+TVB_CLASSIC
+CCM 天映经典
+CCM 天映经典
+Celestial MY 天映
+Celestial MY 天映2
+Celestial cn 天映2
+SETI 三立国际
 
 
 🎬记录频道,#genre#
