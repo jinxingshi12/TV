@@ -3,6 +3,9 @@
 
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/jinxingshi12/selfuse/refs/heads/main/tv
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Live
+https://tv.iill.top/m3u/MyTV
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
