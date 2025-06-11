@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-11 18:28:00,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1$订阅源
+2025-06-12 06:25:42,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1$订阅源
@@ -11,14 +11,15 @@ CCTV-4,http://zqh2333.top:2222/rtp/239.93.25.105:5140$订阅源
 CCTV-4欧洲,http://xg.52sw.top/play/kzb/play.php?id=cctv4o$订阅源
 CCTV-5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5$订阅源
 CCTV-5,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=CCTV5$订阅源
+CCTV-5,http://182.120.229.24:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://xg.52sw.top/play/kzb/play.php?id=cctv5$订阅源
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000$订阅源
 CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p$订阅源
 CCTV-7,http://xg.52sw.top/play/kzb/play.php?id=cctv7$订阅源
 CCTV-8,http://xg.52sw.top/play/kzb/play.php?id=cctv8$订阅源
 CCTV-8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8$订阅源
-CCTV-9,http://xg.52sw.top/play/kzb/play.php?id=cctv9$订阅源
 CCTV-9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9$订阅源
+CCTV-9,http://xg.52sw.top/play/kzb/play.php?id=cctv9$订阅源
 CCTV-10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10$订阅源
 CCTV-10,http://xg.52sw.top/play/kzb/play.php?id=cctv10$订阅源
 CCTV-11,http://xg.52sw.top/play/kzb/play.php?id=cctv11$订阅源
@@ -26,8 +27,10 @@ CCTV-12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12$订阅源
 CCTV-12,http://xg.52sw.top/play/kzb/play.php?id=cctv12$订阅源
 CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
 CCTV-12,http://zqh2333.top:2222/rtp/239.93.25.30:8124$订阅源
+CCTV-12,http://115.215.143.32:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14$订阅源
 CCTV-14,http://xg.52sw.top/play/kzb/play.php?id=cctv14$订阅源
+CCTV-14,http://182.120.229.24:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://zqh2333.top:2222/rtp/239.93.24.103:5140$订阅源
 CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16$订阅源
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264$订阅源
@@ -72,30 +75,32 @@ IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订�
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+湖南卫视,http://115.215.143.32:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 天津卫视,http://zqh2333.top:2222/rtp/239.93.24.167:5140$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$订阅源
-广东卫视,http://101.66.194.35:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+广东卫视,http://113.111.22.140:8888/udp/239.77.0.84:5146$订阅源
+广东卫视,http://113.111.21.176:8888/udp/239.77.0.84:5146$订阅源
+广西卫视,http://115.215.143.32:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 江苏卫视,http://zqh2333.top:2222/rtp/239.93.24.89:5140$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
+河南卫视,http://103.96.72.37:17777/tv/henan.php$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php$订阅源
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
-河南卫视,http://103.96.72.37:17777/tv/henan.php$订阅源
 湖北卫视,http://zqh2333.top:2222/rtp/239.93.24.250:5140$订阅源
-山西卫视,http://123.160.174.149:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东南卫视,http://171.15.18.199:8180/TV00000000000000000033@HHZT$订阅源
-东南卫视,http://101.66.194.35:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-辽宁卫视,http://123.160.174.149:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140$订阅源
-重庆卫视,http://101.66.194.35:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+黑龙江卫视,http://115.215.143.32:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 陕西卫视,http://xg.52sw.top/play/kzb/play.php?id=sxws$订阅源
+陕西卫视,http://115.215.143.32:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 吉林卫视,https://hyf000.eu.org/80947108/JILINWS$订阅源
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8$订阅源
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+云南卫视,http://115.215.143.32:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源
 西藏卫视,http://222.218.122.114:8188/udp/239.81.0.55:4056$订阅源
+西藏卫视,http://115.215.143.32:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv$订阅源
-兵团卫视,https://hyf000.eu.org/80947108/BINGTUANWS$订阅源
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8$订阅源
 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$订阅源
 
@@ -107,35 +112,26 @@ IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订�
 石家庄都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5859&tk=97475bb89d45$订阅源
 
 🌊港·澳,#genre#
+凤凰卫视中文台,http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv$订阅源
 凤凰卫视中文台,http://121.37.185.74:18180/TV00000000000000000054@HHZT$订阅源
+凤凰卫视资讯台,http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv$订阅源
+凤凰卫视资讯台,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MEAE2353137123531371&ct=19234&tsum=0627df820681c10cef07745ec4493f51$订阅源
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv$订阅源
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台$订阅源
 翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv$订阅源
 TVB功夫台,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8$订阅源
 ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
 RTHK34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream01/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream01/streamPlaylist.m3u8$订阅源
 HOY77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv$订阅源
 HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv$订阅源
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$订阅源
-澳门MACAU,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8$订阅源
 澳门MACAU,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8$订阅源
+澳门MACAU,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8$订阅源
 
 台湾,#genre#
 Animax HD,http://47.242.63.189:1777/smt.php$订阅源
 BBC earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8$订阅源
 TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts$订阅源
-时尚,http://91.247.68.229:8000/play/Fashion/index.m3u8$订阅源
 亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8$订阅源
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8$订阅源
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$订阅源
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$订阅源
 Arirang TV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$订阅源
@@ -152,14 +148,11 @@ DiscoveryHD,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8$订阅�
 
 🎬电影频道,#genre#
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8$订阅源
-Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1834&tk=7877e7cc41c7$订阅源
 经典电影,http://lxajh.top/tv/douyu.php?id=74374$订阅源
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$订阅源
 Cinema World,http://37.27.111.214:8080/live/30/hls.m3u8$订阅源
 东森综合,http://ali.hlspull.yximgs.com/live/awei_dszh.flv$订阅源
-东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$订阅源
-东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$订阅源
-纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie$订阅源
+东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8$订阅源
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$订阅源
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
@@ -175,6 +168,7 @@ Cinema World,http://37.27.111.214:8080/live/30/hls.m3u8$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
 龙祥时代,https://ali.hlspull.yximgs.com/live/14r5t6y7u8i9o0p1q2w3e4r5t6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv$订阅源
+好莱坞电影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
@@ -296,17 +290,16 @@ NewTV精品记录,url
 爱怀旧,url
 爱浪漫,url
 爱动漫,url
-湖南卫视,url
 东方卫视,url
 四川卫视,url
 安徽卫视,url
-广西卫视,url
 江西卫视,url
 河北卫视,url
 浙江卫视,url
 海南卫视,url
+山西卫视,url
 贵州卫视,url
-黑龙江卫视,url
+辽宁卫视,url
 内蒙古卫视,url
 宁夏卫视,url
 甘肃卫视,url
@@ -326,7 +319,6 @@ BRTV体育休闲,url
 淘剧场,url
 都市剧场,url
 淘娱乐,url
-凤凰卫视资讯台,url
 J2,url
 TVB Plus,url
 TVB无线新闻台,url
@@ -339,6 +331,7 @@ ViuTV6,url
 ViuTV69,url
 RTHK31,url
 RTHK32,url
+RTHK35,url
 NOW星影台,url
 HOYTV,url
 HOY国际财经台,url
@@ -374,6 +367,7 @@ TVBS台剧,url
 TVBS亚洲,url
 TVBSHD,url
 TVBSNEWS,url
+时尚,url
 CNBC Asia 财经台,url
 亚洲美食,url
 BBC World News,url
@@ -381,6 +375,7 @@ BBC Earth,url
 BBC Lifestyle,url
 Bloomberg News,url
 Bloomberg TV,url
+Fox News,url
 MTV Live,url
 TLC 旅游生活,url
 GINX Esports TV,url
@@ -433,6 +428,7 @@ CHC家庭影院,url
 CHC动作电影,url
 KIX,url
 ROCK Action,url
+Thrill,url
 美亚电影,url
 黑莓电影,url
 影迷数位纪实台,url
@@ -456,6 +452,7 @@ Rock Entertainment,url
 华艺综合,url
 纬来综合,url
 纬来戏剧,url
+纬来电影,url
 靖天综合台,url
 靖天国际台,url
 靖天戏剧台,url
@@ -473,7 +470,6 @@ Rock Entertainment,url
 EYE戏剧,url
 EYE旅游,url
 HBO Family,url
-好莱坞电影台,url
 Animax,url
 龙祥电影,url
 龍華電影,url
@@ -550,7 +546,6 @@ VOA美国之音,url
 越·HBTV,url
 NHK World,url
 半岛国际新闻台,url
-东森美洲卫视,url
 HOY资讯台,url
 CNN,url
 CNA,url
