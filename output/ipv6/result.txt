@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-22 18:22:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-06-23 06:21:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -131,7 +131,7 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8$订阅源
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
-CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8$订阅源
+CCTV-13,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8$订阅源
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8$订阅源
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
@@ -161,13 +161,13 @@ CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-16,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$订阅源
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$订阅源
+CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8CCTV1$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8$订阅源
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$订阅源
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8$订阅源
-CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$订阅源
 CETV早教,http://n1.gzbody.com:85/rtp/239.77.0.180:5146$订阅源
 CETV早教,http://n1.gzbody.com:85/rtp/239.77.1.122:5146$订阅源
 CETV早教,http://n1.gzbody.com:85/rtp/239.77.1.114:5146$订阅源
@@ -237,6 +237,7 @@ CCTV-4K,http://n1.gzbody.com:85/rtp/239.77.1.180:5146$订阅源
 老故事,http://cdn3.163189.xyz/live/cwjd/stream.m3u8$订阅源
 老故事,http://n1.gzbody.com:85/rtp/239.77.1.197:5146$订阅源
 老故事,http://n1.gzbody.com:85/rtp/239.77.0.220:5146$订阅源
+老故事,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$订阅源
 女性时尚,http://n1.gzbody.com:85/rtp/239.253.43.8:5146$订阅源
 女性时尚,http://n1.gzbody.com:85/rtp/239.253.43.23:5146$订阅源
 世界地理,http://n1.gzbody.com:85/rtp/239.253.43.7:5146$订阅源
@@ -299,6 +300,7 @@ NewTV超级电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 NewTV超级电影,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$订阅源
 NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$订阅源
 NewTV超级电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8$订阅源
+NewTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$订阅源
 NewTV超级电视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$订阅源
 NewTV超级体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8$订阅源
 NewTV超级体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8$订阅源
@@ -340,12 +342,15 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 NewTV中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8$订阅源
 NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$订阅源
 NewTV中国功夫,http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8$订阅源
+NewTV中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/index.m3u8$订阅源
 NewTV农业致富,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989$订阅源
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003$订阅源
 NewTV动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573$订阅源
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源
 NewTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$订阅源
+NewTV动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源
+NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/index.m3u8$订阅源
 NewTV家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989$订阅源
 NewTV家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$订阅源
 NewTV家庭剧场,http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8$订阅源
@@ -874,15 +879,16 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8$订阅源
 TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8$订阅源
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh$订阅源
 TVB星河,http://php.jdshipin.com:8880/smt.php$订阅源
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe$订阅源
 TVB娱乐新闻台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m3u8$订阅源
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw$订阅源
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$订阅源
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$订阅源
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31$订阅源
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8$订阅源
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31$订阅源
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$订阅源
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8$订阅源
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32$订阅源
 HOYTV,http://cdn.132.us.kg/live/hoy/stream.m3u8$订阅源
 HOYTV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8$订阅源
 HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$订阅源
@@ -897,7 +903,6 @@ TVB 星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8$订阅
 TVB 星河台,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8$订阅源
 TVB 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh$订阅源
 TVB 星河台,http://php.jdshipin.com:8880/smt.php$订阅源
-TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路9』
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
@@ -907,12 +912,17 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 台湾,#genre#
 Animax HD,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Animax HD,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Warner TV,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Warner TV,https://smart.pendy.dpdns.org/Smart.php$订阅源
 BBC earth,http://smart.pendy.dpdns.org/Smart.php$订阅源
+BBC earth,https://smart.pendy.dpdns.org/Smart.php$订阅源
 CNBC,http://smart.pendy.dpdns.org/Smart.php$订阅源
+CNBC,https://smart.pendy.dpdns.org/Smart.php$订阅源
 MTV LIVE,https://tv.iill.top/4gtv/213$订阅源
 MTV LIVE,https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8$订阅源
 YTN,http://smart.pendy.dpdns.org/Smart.php$订阅源
+YTN,https://smart.pendy.dpdns.org/Smart.php$订阅源
 TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072$订阅源
 TVBS综艺,https://tv.iill.top/4gtv/284$订阅源
 TVBS欢乐,https://tv.iill.top/litv/4gtv-4gtv068$订阅源
@@ -921,13 +931,18 @@ TVBS台剧,https://tv.iill.top/4gtv/285$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路9』
 TVBSHD,https://tv.iill.top/litv/4gtv-4gtv073$订阅源
 时尚,http://smart.pendy.dpdns.org/Smart.php$订阅源
+时尚,https://smart.pendy.dpdns.org/Smart.php$订阅源
 CNBC Asia 财经台,https://tv.iill.top/4gtv/235$订阅源
 亚洲旅游台,https://tv.iill.top/litv/4gtv-4gtv076$订阅源
 BBC World News,http://smart.pendy.dpdns.org/Smart.php$订阅源
+BBC World News,https://smart.pendy.dpdns.org/Smart.php$订阅源
 BBC Earth,http://smart.pendy.dpdns.org/Smart.php$订阅源
+BBC Earth,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Bloomberg News,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Bloomberg News,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Bloomberg TV,https://tv.iill.top/4gtv/283$订阅源
 Fox News,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Fox News,https://smart.pendy.dpdns.org/Smart.php$订阅源
 MTV Live,https://tv.iill.top/4gtv/213$订阅源
 MTV Live,https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8$订阅源
 GINX Esports TV,https://tv.iill.top/litv/4gtv-4gtv053$订阅源
@@ -973,10 +988,13 @@ Arirang TV,https://tv.iill.top/litv/4gtv-4gtv079$订阅源
 
 🎬记录频道,#genre#
 DiscoveryAsia,http://smart.pendy.dpdns.org/Smart.php$订阅源
+DiscoveryAsia,https://smart.pendy.dpdns.org/Smart.php$订阅源
 DiscoveryHD,https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8$订阅源
 DiscoveryHD,http://smart.pendy.dpdns.org/Smart.php$订阅源
+DiscoveryHD,https://smart.pendy.dpdns.org/Smart.php$订阅源
 discovery,https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8$订阅源
 discovery,http://smart.pendy.dpdns.org/Smart.php$订阅源
+discovery,https://smart.pendy.dpdns.org/Smart.php$订阅源
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8$订阅源
 CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8$订阅源
 CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8$订阅源
@@ -1011,6 +1029,7 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 CHC动作电影,http://eastscreen.tv/ooooo.php$订阅源
 ROCK Action,https://tv.iill.top/4gtv/180$订阅源
 Thrill,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Thrill,https://smart.pendy.dpdns.org/Smart.php$订阅源
 美亚电影,https://live.tvfix.org/live/mydy/index.m3u8$订阅源
 美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8$订阅源
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya$订阅源
@@ -1040,9 +1059,11 @@ My Cinema Europe HD 我的欧洲电影,https://tv.iill.top/4gtv/176$订阅源
 Cinema World,https://tv.iill.top/4gtv/225$订阅源
 HITS 频道,https://tv.iill.top/4gtv/186$订阅源
 HITS 频道,http://smart.pendy.dpdns.org/Smart.php$订阅源
+HITS 频道,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Rock Action,https://tv.iill.top/4gtv/180$订阅源
 Rock Entertainment,https://tv.iill.top/4gtv/275$订阅源
 Rock Entertainment,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Rock Entertainment,https://smart.pendy.dpdns.org/Smart.php$订阅源
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$订阅源
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
 东森财经新闻,https://tv.iill.top/litv/4gtv-4gtv153$订阅源
@@ -1065,7 +1086,9 @@ Rock Entertainment,http://smart.pendy.dpdns.org/Smart.php$订阅源
 龙华电影,https://tv.iill.top/litv/litv-longturn03$订阅源
 龙华日韩,https://tv.iill.top/litv/litv-longturn11$订阅源
 HBO Family,http://smart.pendy.dpdns.org/Smart.php$订阅源
+HBO Family,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Animax,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Animax,https://smart.pendy.dpdns.org/Smart.php$订阅源
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8$订阅源
 龍華電影,https://tv.iill.top/litv/litv-longturn03$订阅源
 美亞電影,https://live.tvfix.org/live/mydy/index.m3u8$订阅源
@@ -1074,30 +1097,46 @@ Animax,http://smart.pendy.dpdns.org/Smart.php$订阅源
 美亞電影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源
 龍華洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8$订阅源
 Astrol Kplus,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Astrol Kplus,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Axn HD,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Axn HD,https://smart.pendy.dpdns.org/Smart.php$订阅源
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源
 CCTV-6,http://bailudz.top:1236/111/hahahaha.php?id=cctv6$订阅源
 Movies Now HD,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Movies Now HD,https://smart.pendy.dpdns.org/Smart.php$订阅源
 One,http://smart.pendy.dpdns.org/Smart.php$订阅源
+One,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Paramount Network,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Paramount Network,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Rock Actions,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Rock Actions,https://smart.pendy.dpdns.org/Smart.php$订阅源
 SCM,http://smart.pendy.dpdns.org/Smart.php$订阅源
+SCM,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Star Movies HD,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Star Movies HD,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Warner TV,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Warner TV,https://smart.pendy.dpdns.org/Smart.php$订阅源
 tvN Movie,http://smart.pendy.dpdns.org/Smart.php$订阅源
+tvN Movie,https://smart.pendy.dpdns.org/Smart.php$订阅源
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 Celestial Classic,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Celestial Classic,https://smart.pendy.dpdns.org/Smart.php$订阅源
 CCM,http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 HBO HD,http://smart.pendy.dpdns.org/Smart.php$订阅源
+HBO HD,https://smart.pendy.dpdns.org/Smart.php$订阅源
 HBO Hits,http://smart.pendy.dpdns.org/Smart.php$订阅源
+HBO Hits,https://smart.pendy.dpdns.org/Smart.php$订阅源
 HBO Signature,http://smart.pendy.dpdns.org/Smart.php$订阅源
+HBO Signature,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Hits,https://tv.iill.top/4gtv/186$订阅源
 Hits,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Hits,https://smart.pendy.dpdns.org/Smart.php$订阅源
 
 🪁动画频道,#genre#
 DreamWorks 梦工厂动画,https://tv.iill.top/4gtv/282$订阅源
 Nick Jr. 儿童频道,https://tv.iill.top/4gtv/219$订阅源
 Nick Jr. 儿童频道,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Nick Jr. 儿童频道,https://smart.pendy.dpdns.org/Smart.php$订阅源
 i-Fun 动漫台,https://tv.iill.top/litv/litv-ftv15$订阅源
 儿童卡通台,https://tv.iill.top/4gtv/269$订阅源
 精选动漫台,https://tv.iill.top/4gtv/204$订阅源
@@ -1110,8 +1149,10 @@ i-Fun 动漫台,https://tv.iill.top/litv/litv-ftv15$订阅源
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8$订阅源
 Nick Jr,https://tv.iill.top/4gtv/219$订阅源
 Nick Jr,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Nick Jr,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Nickelodeon,https://tv.iill.top/4gtv/185$订阅源
 Nickelodeon,http://smart.pendy.dpdns.org/Smart.php$订阅源
+Nickelodeon,https://smart.pendy.dpdns.org/Smart.php$订阅源
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8$订阅源
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000$订阅源
@@ -1177,12 +1218,14 @@ Nickelodeon,http://smart.pendy.dpdns.org/Smart.php$订阅源
 
 国际,#genre#
 France 24,http://smart.pendy.dpdns.org/Smart.php$订阅源
+France 24,https://smart.pendy.dpdns.org/Smart.php$订阅源
 TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072$订阅源
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8$订阅源
 VOA美国之音,https://tv.iill.top/litv/litv-ftv03$订阅源
 美·红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8$订阅源
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$订阅源
 NHK World,http://smart.pendy.dpdns.org/Smart.php$订阅源
+NHK World,https://smart.pendy.dpdns.org/Smart.php$订阅源
 半岛国际新闻台,https://tv.iill.top/litv/litv-ftv10$订阅源
 HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8$订阅源
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8$订阅源
@@ -1191,13 +1234,16 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$订阅源
 CNA,http://smart.pendy.dpdns.org/Smart.php$订阅源
+CNA,https://smart.pendy.dpdns.org/Smart.php$订阅源
 Love_Nature,https://tv.iill.top/4gtv/139$订阅源
 Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8$订阅源
 Trace_Sports,https://tv.iill.top/litv/4gtv-4gtv077$订阅源
 Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8$订阅源
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8$订阅源
 BBC_Earth,http://smart.pendy.dpdns.org/Smart.php$订阅源
+BBC_Earth,https://smart.pendy.dpdns.org/Smart.php$订阅源
 History,http://smart.pendy.dpdns.org/Smart.php$订阅源
+History,https://smart.pendy.dpdns.org/Smart.php$订阅源
 
 🏛轮播剧场,#genre#
 我爱我家,http://live.iill.top/yy.php?id=1382735557$订阅源

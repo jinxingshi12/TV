@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jinxingshi12/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-22 18:22:00
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-23 06:21:59
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -260,7 +260,7 @@ https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8$订阅源
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -320,6 +320,8 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8CCTV1$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$订阅源
@@ -331,8 +333,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8$订阅源
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CETV早教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV早教.png" group-title="📺央视频道",CETV早教
 http://n1.gzbody.com:85/rtp/239.77.0.180:5146$订阅源
 #EXTINF:-1 tvg-name="CETV早教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV早教.png" group-title="📺央视频道",CETV早教
@@ -467,6 +467,8 @@ http://cdn3.163189.xyz/live/cwjd/stream.m3u8$订阅源
 http://n1.gzbody.com:85/rtp/239.77.1.197:5146$订阅源
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="💰数字频道",老故事
 http://n1.gzbody.com:85/rtp/239.77.0.220:5146$订阅源
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="💰数字频道",老故事
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$订阅源
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="💰数字频道",女性时尚
 http://n1.gzbody.com:85/rtp/239.253.43.8:5146$订阅源
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="💰数字频道",女性时尚
@@ -591,6 +593,8 @@ http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电影.png" group-title="💰数字频道",NewTV超级电影
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电影.png" group-title="💰数字频道",NewTV超级电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV超级电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电视.png" group-title="💰数字频道",NewTV超级电视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级体育.png" group-title="💰数字频道",NewTV超级体育
@@ -673,6 +677,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8$订�
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV中国功夫.png" group-title="💰数字频道",NewTV中国功夫
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV中国功夫.png" group-title="💰数字频道",NewTV中国功夫
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV农业致富.png" group-title="💰数字频道",NewTV农业致富
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989$订阅源
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="💰数字频道",NewTV动作电影
@@ -685,6 +691,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅�
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="💰数字频道",NewTV动作电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$订阅源
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="💰数字频道",NewTV动作电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="💰数字频道",NewTV动作电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV家庭剧场.png" group-title="💰数字频道",NewTV家庭剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989$订阅源
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV家庭剧场.png" group-title="💰数字频道",NewTV家庭剧场
@@ -1729,8 +1739,6 @@ https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8$订阅源
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh$订阅源
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🌊港·澳",TVB星河
 http://php.jdshipin.com:8880/smt.php$订阅源
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🌊港·澳",TVB星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe$订阅源
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🌊港·澳",TVB娱乐新闻台
 http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m3u8$订阅源
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🌊港·澳",TVB娱乐新闻台
@@ -1743,10 +1751,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$订阅源
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31$订阅源
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK31.png" group-title="🌊港·澳",RTHK31
 https://cdn5.163189.xyz/live/rthk31/stream.m3u8$订阅源
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK31.png" group-title="🌊港·澳",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31$订阅源
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🌊港·澳",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$订阅源
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🌊港·澳",RTHK32
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8$订阅源
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🌊港·澳",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32$订阅源
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYTV.png" group-title="🌊港·澳",HOYTV
 http://cdn.132.us.kg/live/hoy/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYTV.png" group-title="🌊港·澳",HOYTV
@@ -1775,8 +1787,6 @@ https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8$订阅源
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh$订阅源
 #EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB 星河台.png" group-title="🌊港·澳",TVB 星河台
 http://php.jdshipin.com:8880/smt.php$订阅源
-#EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB 星河台.png" group-title="🌊港·澳",TVB 星河台
-http://php.jdshipin.com:8880/smt.php?id=Xinhe$订阅源
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路9』
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="🌊港·澳",香港卫视
@@ -1791,18 +1801,28 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2$订阅源
 #EXTINF:-1 tvg-name="Animax HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax HD.png" group-title="台湾",Animax HD
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Animax HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax HD.png" group-title="台湾",Animax HD
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="台湾",Warner TV
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="台湾",Warner TV
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="BBC earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC earth.png" group-title="台湾",BBC earth
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="BBC earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC earth.png" group-title="台湾",BBC earth
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC.png" group-title="台湾",CNBC
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC.png" group-title="台湾",CNBC
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV LIVE.png" group-title="台湾",MTV LIVE
 https://tv.iill.top/4gtv/213$订阅源
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV LIVE.png" group-title="台湾",MTV LIVE
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8$订阅源
 #EXTINF:-1 tvg-name="YTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/YTN.png" group-title="台湾",YTN
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/YTN.png" group-title="台湾",YTN
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="台湾",TVBS新闻
 https://tv.iill.top/litv/4gtv-4gtv072$订阅源
 #EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS综艺.png" group-title="台湾",TVBS综艺
@@ -1819,20 +1839,30 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 https://tv.iill.top/litv/4gtv-4gtv073$订阅源
 #EXTINF:-1 tvg-name="时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/时尚.png" group-title="台湾",时尚
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/时尚.png" group-title="台湾",时尚
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="CNBC Asia 财经台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC Asia 财经台.png" group-title="台湾",CNBC Asia 财经台
 https://tv.iill.top/4gtv/235$订阅源
 #EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲旅游台.png" group-title="台湾",亚洲旅游台
 https://tv.iill.top/litv/4gtv-4gtv076$订阅源
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC World News.png" group-title="台湾",BBC World News
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC World News.png" group-title="台湾",BBC World News
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="台湾",BBC Earth
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="台湾",BBC Earth
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg News.png" group-title="台湾",Bloomberg News
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg News.png" group-title="台湾",Bloomberg News
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV.png" group-title="台湾",Bloomberg TV
 https://tv.iill.top/4gtv/283$订阅源
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fox News.png" group-title="台湾",Fox News
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fox News.png" group-title="台湾",Fox News
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="台湾",MTV Live
 https://tv.iill.top/4gtv/213$订阅源
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="台湾",MTV Live
@@ -1915,14 +1945,20 @@ https://epg.iill.top/v/302.mp4$订阅源
 https://tv.iill.top/litv/4gtv-4gtv079$订阅源
 #EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DiscoveryAsia.png" group-title="🎬记录频道",DiscoveryAsia
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DiscoveryAsia.png" group-title="🎬记录频道",DiscoveryAsia
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="DiscoveryHD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DiscoveryHD.png" group-title="🎬记录频道",DiscoveryHD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8$订阅源
 #EXTINF:-1 tvg-name="DiscoveryHD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DiscoveryHD.png" group-title="🎬记录频道",DiscoveryHD
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="DiscoveryHD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DiscoveryHD.png" group-title="🎬记录频道",DiscoveryHD
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/discovery.png" group-title="🎬记录频道",discovery
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8$订阅源
 #EXTINF:-1 tvg-name="discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/discovery.png" group-title="🎬记录频道",discovery
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/discovery.png" group-title="🎬记录频道",discovery
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎬记录频道",CCTV-15
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎬记录频道",CCTV-15
@@ -1987,6 +2023,8 @@ http://eastscreen.tv/ooooo.php$订阅源
 https://tv.iill.top/4gtv/180$订阅源
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Thrill.png" group-title="🎬电影频道",Thrill
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Thrill.png" group-title="🎬电影频道",Thrill
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="🎬电影频道",美亚电影
 https://live.tvfix.org/live/mydy/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="🎬电影频道",美亚电影
@@ -2045,12 +2083,16 @@ https://tv.iill.top/4gtv/225$订阅源
 https://tv.iill.top/4gtv/186$订阅源
 #EXTINF:-1 tvg-name="HITS 频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HITS 频道.png" group-title="🎬电影频道",HITS 频道
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="HITS 频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HITS 频道.png" group-title="🎬电影频道",HITS 频道
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Action.png" group-title="🎬电影频道",Rock Action
 https://tv.iill.top/4gtv/180$订阅源
 #EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Entertainment.png" group-title="🎬电影频道",Rock Entertainment
 https://tv.iill.top/4gtv/275$订阅源
 #EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Entertainment.png" group-title="🎬电影频道",Rock Entertainment
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Entertainment.png" group-title="🎬电影频道",Rock Entertainment
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬电影频道",东森电影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬电影频道",东森电影
@@ -2095,8 +2137,12 @@ https://tv.iill.top/litv/litv-longturn03$订阅源
 https://tv.iill.top/litv/litv-longturn11$订阅源
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="🎬电影频道",HBO Family
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="🎬电影频道",HBO Family
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🎬电影频道",Animax
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🎬电影频道",Animax
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影.png" group-title="🎬电影频道",龍華電影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影.png" group-title="🎬电影频道",龍華電影
@@ -2113,50 +2159,82 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astrol Kplus.png" group-title="🎬电影频道",Astrol Kplus
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astrol Kplus.png" group-title="🎬电影频道",Astrol Kplus
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Axn HD.png" group-title="🎬电影频道",Axn HD
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Axn HD.png" group-title="🎬电影频道",Axn HD
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🎬电影频道",CCTV-6
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🎬电影频道",CCTV-6
 http://bailudz.top:1236/111/hahahaha.php?id=cctv6$订阅源
 #EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Movies Now HD.png" group-title="🎬电影频道",Movies Now HD
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Movies Now HD.png" group-title="🎬电影频道",Movies Now HD
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/One.png" group-title="🎬电影频道",One
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/One.png" group-title="🎬电影频道",One
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Paramount Network.png" group-title="🎬电影频道",Paramount Network
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Paramount Network.png" group-title="🎬电影频道",Paramount Network
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Actions.png" group-title="🎬电影频道",Rock Actions
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Actions.png" group-title="🎬电影频道",Rock Actions
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="SCM" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SCM.png" group-title="🎬电影频道",SCM
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="SCM" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SCM.png" group-title="🎬电影频道",SCM
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Star Movies HD.png" group-title="🎬电影频道",Star Movies HD
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Star Movies HD.png" group-title="🎬电影频道",Star Movies HD
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="🎬电影频道",Warner TV
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="🎬电影频道",Warner TV
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN Movie.png" group-title="🎬电影频道",tvN Movie
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN Movie.png" group-title="🎬电影频道",tvN Movie
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 #EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Celestial Classic.png" group-title="🎬电影频道",Celestial Classic
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Celestial Classic.png" group-title="🎬电影频道",Celestial Classic
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="CCM" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCM.png" group-title="🎬电影频道",CCM
 http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO HD.png" group-title="🎬电影频道",HBO HD
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO HD.png" group-title="🎬电影频道",HBO HD
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Hits.png" group-title="🎬电影频道",HBO Hits
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Hits.png" group-title="🎬电影频道",HBO Hits
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Signature.png" group-title="🎬电影频道",HBO Signature
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Signature.png" group-title="🎬电影频道",HBO Signature
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hits.png" group-title="🎬电影频道",Hits
 https://tv.iill.top/4gtv/186$订阅源
 #EXTINF:-1 tvg-name="Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hits.png" group-title="🎬电影频道",Hits
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hits.png" group-title="🎬电影频道",Hits
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="DreamWorks 梦工厂动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DreamWorks 梦工厂动画.png" group-title="🪁动画频道",DreamWorks 梦工厂动画
 https://tv.iill.top/4gtv/282$订阅源
 #EXTINF:-1 tvg-name="Nick Jr. 儿童频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr. 儿童频道.png" group-title="🪁动画频道",Nick Jr. 儿童频道
 https://tv.iill.top/4gtv/219$订阅源
 #EXTINF:-1 tvg-name="Nick Jr. 儿童频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr. 儿童频道.png" group-title="🪁动画频道",Nick Jr. 儿童频道
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Nick Jr. 儿童频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr. 儿童频道.png" group-title="🪁动画频道",Nick Jr. 儿童频道
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="i-Fun 动漫台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/i-Fun 动漫台.png" group-title="🪁动画频道",i-Fun 动漫台
 https://tv.iill.top/litv/litv-ftv15$订阅源
 #EXTINF:-1 tvg-name="儿童卡通台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/儿童卡通台.png" group-title="🪁动画频道",儿童卡通台
@@ -2181,10 +2259,14 @@ https://cdn8.163189.xyz/live/lhkt/stream.m3u8$订阅源
 https://tv.iill.top/4gtv/219$订阅源
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="🪁动画频道",Nick Jr
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="🪁动画频道",Nick Jr
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" group-title="🪁动画频道",Nickelodeon
 https://tv.iill.top/4gtv/185$订阅源
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" group-title="🪁动画频道",Nickelodeon
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" group-title="🪁动画频道",Nickelodeon
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
@@ -2311,6 +2393,8 @@ http://luobo.bkpcp.top/yy/1382735568$订阅源
 https://www.goodiptv.club/douyu/5907076$订阅源
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/France 24.png" group-title="国际",France 24
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/France 24.png" group-title="国际",France 24
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="国际",TVBS新闻
 https://tv.iill.top/litv/4gtv-4gtv072$订阅源
 #EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VOA美国之音.png" group-title="国际",VOA美国之音
@@ -2323,6 +2407,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8$订阅�
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$订阅源
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK World.png" group-title="国际",NHK World
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK World.png" group-title="国际",NHK World
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="半岛国际新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛国际新闻台.png" group-title="国际",半岛国际新闻台
 https://tv.iill.top/litv/litv-ftv10$订阅源
 #EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY资讯台.png" group-title="国际",HOY资讯台
@@ -2339,6 +2425,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$订阅源
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际",CNA
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际",CNA
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="Love_Nature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Love_Nature.png" group-title="国际",Love_Nature
 https://tv.iill.top/4gtv/139$订阅源
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Stadium.png" group-title="国际",Stadium
@@ -2351,8 +2439,12 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8$订阅源
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8$订阅源
 #EXTINF:-1 tvg-name="BBC_Earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC_Earth.png" group-title="国际",BBC_Earth
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="BBC_Earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC_Earth.png" group-title="国际",BBC_Earth
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="History" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/History.png" group-title="国际",History
 http://smart.pendy.dpdns.org/Smart.php$订阅源
+#EXTINF:-1 tvg-name="History" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/History.png" group-title="国际",History
+https://smart.pendy.dpdns.org/Smart.php$订阅源
 #EXTINF:-1 tvg-name="我爱我家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我爱我家.png" group-title="🏛轮播剧场",我爱我家
 http://live.iill.top/yy.php?id=1382735557$订阅源
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🈳无结果频道",CETV1
