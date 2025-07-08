@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-08 06:24:16,http://220.169.100.41:10087/udp/239.76.253.153:9000$订阅源
+2025-07-08 18:24:41,http://220.169.100.41:10087/udp/239.76.253.153:9000$订阅源
 
 📺央视频道,#genre#
 CCTV-3,http://220.169.100.41:10087/udp/239.76.253.153:9000$订阅源
@@ -39,20 +39,19 @@ IPTV谍战剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221227016/86441085.smi
 IPTV相声小品,rtsp://115.153.254.81/PLTV/88888888/224/3221226989/86441091.smil$订阅源
 IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil$订阅源
 IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订阅源
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$订阅源
 
 📡卫视频道,#genre#
 江苏卫视,http://220.169.100.41:10087/udp/239.76.251.89:9000$订阅源
 江苏卫视,http://zqh2333.top:2222/rtp/239.93.24.89:5140$订阅源
 河北卫视,http://220.169.100.41:10087/udp/239.76.252.199:9000$订阅源
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php$订阅源
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 河南卫视,http://www.dsk.cc/hntv/hntv.php$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 东南卫视,http://171.15.18.199:8180/TV00000000000000000033@HHZT$订阅源
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8$订阅源
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
-延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 
 🏠河北频道,#genre#
 河北都市,http://php.fjl626.cn/hebei.php?id=hbds$订阅源
@@ -65,6 +64,15 @@ IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订�
 翡翠台,https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8$订阅源
 ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
 RTHK34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8$订阅源
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream01/streamPlaylist.m3u8$订阅源
 tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8$订阅源
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$订阅源
 Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8$订阅源
@@ -98,13 +106,12 @@ KIX,http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8$订阅源
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
-好莱坞电影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8$订阅源
 好莱坞电影台,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8$订阅源
+好莱坞电影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8$订阅源
 PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
-新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002$订阅源
 新动漫,http://39.164.174.139:5000/nl.m3u8?id=XDM$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
@@ -113,7 +120,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新动漫,rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
+新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 蜡笔小新,http://home.kuaidi521.com:35455/bilibili/30837590$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
@@ -128,6 +135,7 @@ CNA,https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8$订阅源
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$订阅源
 
 🏛轮播剧场,#genre#
+粤语电影3,http://epg.112114.xyz/douyu/1226741$订阅源
 
 🈳无结果频道,#genre#
 CCTV-1,url
@@ -198,6 +206,7 @@ IPTV5+,url
 法治天地,url
 游戏风云,url
 生活时尚,url
+都市剧场,url
 哒啵赛事,url
 黑莓动画,url
 NewTV超级电影,url
@@ -270,6 +279,7 @@ NewTV精品记录,url
 新疆卫视,url
 西藏卫视,url
 兵团卫视,url
+延边卫视,url
 安多卫视,url
 厦门卫视,url
 康巴卫视,url
@@ -302,7 +312,6 @@ ViuTV6,url
 ViuTV69,url
 RTHK31,url
 RTHK32,url
-RTHK35,url
 NOW星影台,url
 HOYTV,url
 HOY77,url
@@ -526,6 +535,7 @@ Nickelodeon,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
+24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 七龙珠,url
@@ -559,4 +569,3 @@ History,url
 我爱我家,url
 周星驰,url
 宇哥电影,url
-粤语电影3,url
