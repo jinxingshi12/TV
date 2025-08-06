@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-08-06 18:29:14,http://43.138.196.212/111.php?id=cctv2$订阅源
+2025-08-07 06:24:30,http://43.138.196.212/111.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://43.138.196.212/111.php?id=cctv2$订阅源
 CCTV-4,http://43.138.196.212/111.php?id=cctv4$订阅源
-CCTV-7,http://111.227.196.164:9901/tsfile/live/faacts/0007_1.m3u8$订阅源
-CCTV-12,http://220.169.100.41:10087/udp/239.76.253.162:9000$订阅源
 CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
 CCTV-14,http://43.138.196.212/111.php?id=cctv14$订阅源
 CCTV-17,http://220.169.100.41:10087/udp/239.76.252.238:9000$订阅源
@@ -42,20 +40,16 @@ IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil$订�
 IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订阅源
 
 📡卫视频道,#genre#
-北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8$订阅源
 深圳卫视,http://43.138.196.212/111.php?id=szws$订阅源
 河北卫视,http://220.169.100.41:10087/udp/239.76.252.199:9000$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
 河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
 黑龙江卫视,http://43.138.196.212/111.php?id=hljws$订阅源
-内蒙古卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.112:1025$订阅源
 西藏卫视,http://kds.hejintv.com/tv/xzxl.php$订阅源
-厦门卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060$订阅源
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 
 🏠河北频道,#genre#
-石家庄生活,http://221.193.168.234:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-石家庄生活,http://221.193.168.54:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 🌊港·澳,#genre#
 ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
@@ -75,7 +69,9 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 
 🎬电影频道,#genre#
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$订阅源
 东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8$订阅源
+东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$订阅源
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$订阅源
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701$订阅源
@@ -95,6 +91,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$订阅源
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 国际,#genre#
@@ -106,7 +104,6 @@ NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$订阅源
 
 🏛轮播剧场,#genre#
-粤语电影3,http://epg.112114.xyz/douyu/1226741$订阅源
 
 🈳无结果频道,#genre#
 CCTV-1,url
@@ -116,6 +113,7 @@ CCTV-4欧洲,url
 CCTV-5,url
 CCTV-5+,url
 CCTV-6,url
+CCTV-7,url
 CCTV-8,url
 CCTV-9,url
 CCTV-10,url
@@ -222,6 +220,7 @@ NewTV精品记录,url
 爱怀旧,url
 爱浪漫,url
 爱动漫,url
+北京卫视,url
 湖南卫视,url
 东方卫视,url
 四川卫视,url
@@ -240,6 +239,7 @@ NewTV精品记录,url
 贵州卫视,url
 辽宁卫视,url
 重庆卫视,url
+内蒙古卫视,url
 宁夏卫视,url
 陕西卫视,url
 吉林卫视,url
@@ -249,8 +249,8 @@ NewTV精品记录,url
 青海卫视,url
 新疆卫视,url
 兵团卫视,url
-延边卫视,url
 安多卫视,url
+厦门卫视,url
 康巴卫视,url
 大湾区卫视,url
 香港卫视,url
@@ -262,6 +262,7 @@ NewTV精品记录,url
 河北农民,url
 睛彩河北,url
 石家庄娱乐,url
+石家庄生活,url
 石家庄都市,url
 BRTV纪实科教,url
 BRTV体育休闲,url
@@ -522,10 +523,8 @@ Nickelodeon,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
-24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
-七龙珠,url
 海绵宝宝,url
 中华小当家,url
 斗破苍穹玄幻剧,url
@@ -540,6 +539,7 @@ VOA美国之音,url
 新加坡,url
 NHK World,url
 半岛国际新闻台,url
+东森美洲卫视,url
 HOY资讯台,url
 BBC,url
 CNN,url
@@ -556,3 +556,4 @@ History,url
 我爱我家,url
 周星驰,url
 宇哥电影,url
+粤语电影3,url
