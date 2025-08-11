@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-11 18:24:45,http://43.138.196.212/111.php?id=cctv4$订阅源
+2025-08-12 06:22:29,http://43.138.196.212/111.php?id=cctv4$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://43.138.196.212/111.php?id=cctv4$订阅源
@@ -40,17 +40,16 @@ IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订�
 
 📡卫视频道,#genre#
 河北卫视,http://220.169.100.41:10087/udp/239.76.252.199:9000$订阅源
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
 河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
 西藏卫视,http://kds.hejintv.com/tv/xzxl.php$订阅源
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 
 🏠河北频道,#genre#
 
 🌊港·澳,#genre#
 ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
-RTHK34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8$订阅源
-NOW爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/vhNli7a2uwqrSArlhBpDjs0wLosrFVLkMnb9OJ2Hzj14qlP0TO.flv$订阅源
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$订阅源
 澳门MACAU,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8$订阅源
 
@@ -77,6 +76,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil$订阅源
@@ -85,7 +85,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新动漫,rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
-新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$订阅源
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 
 国际,#genre#
 德国之声,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8$订阅源
@@ -243,7 +243,6 @@ NewTV精品记录,url
 青海卫视,url
 新疆卫视,url
 兵团卫视,url
-延边卫视,url
 安多卫视,url
 厦门卫视,url
 康巴卫视,url
@@ -281,8 +280,10 @@ ViuTV6,url
 ViuTV69,url
 RTHK31,url
 RTHK32,url
+RTHK34,url
 RTHK35,url
 NOW星影台,url
+NOW爆谷台,url
 HOYTV,url
 HOY77,url
 HOY78,url
@@ -517,7 +518,6 @@ Nickelodeon,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
-24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 七龙珠,url
