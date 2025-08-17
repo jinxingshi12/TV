@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jinxingshi12/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-08-17 06:21:15
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-08-17 18:22:19
 http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
@@ -47,12 +47,6 @@ rtsp://60.13.23.179/PLTV/88888910/224/3221225594/1000010000000006000000000027088
 rtsp://221.7.61.147/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil$订阅源
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 rtsp://116.176.26.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil$订阅源
-#EXTINF:-1 tvg-name="CCTV9纪录高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9纪录高清.png" group-title="📺央视频道",CCTV9纪录高清
-http://49.234.31.101:7040/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
-#EXTINF:-1 tvg-name="CCTV15音乐高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15音乐高清.png" group-title="📺央视频道",CCTV15音乐高清
-http://49.234.31.101:7040/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="📺央视频道",CCTV-8K
-http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8$订阅源
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纯享4K.png" group-title="📺央视频道",纯享4K
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="📺央视频道",爱上4K
@@ -77,8 +71,6 @@ http://kds.hejintv.com/tv/hn.php$订阅源
 http://kds.hejintv.com/tv/xzxl.php$订阅源
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="🌊港·澳",ViuTV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK34.png" group-title="🌊港·澳",RTHK34
-http://beishan008.asuscomm.com:8892/bysid/34.m3u8$订阅源
 #EXTINF:-1 tvg-name="C+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/C+.png" group-title="🌊港·澳",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$订阅源
 #EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门MACAU.png" group-title="🌊港·澳",澳门MACAU
@@ -129,8 +121,6 @@ rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
-#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/24H国漫热播.png" group-title="🪁动画频道",24H国漫热播
-https://lunbo.freetv.top/yy/1353937086$订阅源
 #EXTINF:-1 tvg-name="德国之声" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德国之声.png" group-title="国际",德国之声
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="越·HBTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/越·HBTV.png" group-title="国际",越·HBTV
@@ -203,6 +193,8 @@ url
 url
 #EXTINF:-1 tvg-name="CCTV8电视剧高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8电视剧高清.png" group-title="🈳无结果频道",CCTV8电视剧高清
 url
+#EXTINF:-1 tvg-name="CCTV9纪录高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9纪录高清.png" group-title="🈳无结果频道",CCTV9纪录高清
+url
 #EXTINF:-1 tvg-name="CCTV10科教高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10科教高清.png" group-title="🈳无结果频道",CCTV10科教高清
 url
 #EXTINF:-1 tvg-name="CCTV11戏曲高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11戏曲高清.png" group-title="🈳无结果频道",CCTV11戏曲高清
@@ -213,11 +205,15 @@ url
 url
 #EXTINF:-1 tvg-name="CCTV14少儿高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14少儿高清.png" group-title="🈳无结果频道",CCTV14少儿高清
 url
+#EXTINF:-1 tvg-name="CCTV15音乐高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15音乐高清.png" group-title="🈳无结果频道",CCTV15音乐高清
+url
 #EXTINF:-1 tvg-name="CCTV16奥林匹克高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16奥林匹克高清.png" group-title="🈳无结果频道",CCTV16奥林匹克高清
 url
 #EXTINF:-1 tvg-name="CCTV17农业农村高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17农业农村高清.png" group-title="🈳无结果频道",CCTV17农业农村高清
 url
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="🈳无结果频道",CCTV-4K
+url
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="🈳无结果频道",CCTV-8K
 url
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华数4K.png" group-title="🈳无结果频道",华数4K
 url
@@ -510,6 +506,8 @@ url
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK31.png" group-title="🈳无结果频道",RTHK31
 url
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🈳无结果频道",RTHK32
+url
+#EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK34.png" group-title="🈳无结果频道",RTHK34
 url
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK35.png" group-title="🈳无结果频道",RTHK35
 url
@@ -967,8 +965,6 @@ url
 url
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" group-title="🈳无结果频道",Nickelodeon
 url
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🈳无结果频道",少儿动画
-url
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🈳无结果频道",动漫秀场
 url
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青春动漫.png" group-title="🈳无结果频道",青春动漫
@@ -986,6 +982,8 @@ url
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🈳无结果频道",金鹰卡通
 url
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🈳无结果频道",黑莓动画
+url
+#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/24H国漫热播.png" group-title="🈳无结果频道",24H国漫热播
 url
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🈳无结果频道",浙江少儿
 url
