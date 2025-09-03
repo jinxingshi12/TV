@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-03 06:18:29,http://121.60.56.116:10001/rtp/239.69.1.138:10466$订阅源
+2025-09-03 18:21:35,http://121.60.56.116:10001/rtp/239.69.1.138:10466$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466$订阅源
@@ -39,9 +39,9 @@ IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil$订�
 IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订阅源
 
 📡卫视频道,#genre#
+河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
-河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 
 🏠河北频道,#genre#
 
@@ -63,8 +63,8 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 
 🎬电影频道,#genre#
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$订阅源
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$订阅源
-东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8$订阅源
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$订阅源
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701$订阅源
@@ -72,7 +72,6 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
@@ -452,6 +451,7 @@ EYE旅游,url
 HBO Family,url
 好莱坞电影台,url
 Animax,url
+龙祥电影,url
 龍華電影,url
 東森洋片,url
 東森電影,url
