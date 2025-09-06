@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-06 06:20:14,http://121.60.56.116:10001/rtp/239.69.1.138:10466$订阅源
+2025-09-06 18:20:52,http://106.52.196.79:80/TV/mui.php?id=cctv4$订阅源
 
 📺央视频道,#genre#
+CCTV-4,http://106.52.196.79:80/TV/mui.php?id=cctv4$订阅源
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466$订阅源
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376$订阅源
 CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
@@ -29,7 +30,6 @@ CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/1000010000000006000000000
 CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil$订阅源
 CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil$订阅源
 CCTV-8K,http://www.douzhicloud.site:35455/nptv/cctv8k.m3u8$订阅源
-纯享4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8$订阅源
 爱上4K,rtsp://115.153.254.81/PLTV/88888888/224/3221227025/86502164.smil$订阅源
 
 💰数字频道,#genre#
@@ -39,16 +39,18 @@ IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil$订�
 IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订阅源
 
 📡卫视频道,#genre#
-河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
-河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
+河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
+河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
 兵团卫视,https://my5353.com/7Z1HP$订阅源
+厦门卫视,http://125.42.148.255:9901/tsfile/live/0125_1.m3u8$订阅源
 
 🏠河北频道,#genre#
 
 🌊港·澳,#genre#
 ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
 RTHK34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8$订阅源
+NOW星影台,http://iptv.4666888.xyz/iptv.php$订阅源
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$订阅源
 澳门MACAU,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8$订阅源
 
@@ -58,13 +60,21 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 🎬新马,#genre#
 
 🎬记录频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
+音乐现场,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227338/10000100000000060000000001946523_0.smil$订阅源
+音乐现场,rtsp://115.153.245.70/PLTV/88888888/224/3221227001/86441055.smil$订阅源
+音乐现场,rtsp://115.153.254.81/PLTV/88888888/224/3221227001/86441055.smil$订阅源
+音乐现场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227001/86441055.smil$订阅源
+音乐现场,rtsp://115.153.212.72/PLTV/88888888/224/3221227001/86441055.smil$订阅源
+音乐现场,rtsp://115.153.247.80/PLTV/88888888/224/3221227001/86441055.smil$订阅源
+音乐现场,rtsp://115.153.230.145/PLTV/88888888/224/3221227001/86441055.smil$订阅源
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2$订阅源
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 
 🎬电影频道,#genre#
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$订阅源
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$订阅源
-东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8$订阅源
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$订阅源
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701$订阅源
@@ -72,10 +82,10 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil$订阅源
@@ -84,7 +94,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新动漫,rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
-新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 国际,#genre#
@@ -135,6 +144,7 @@ CCTV16奥林匹克高清,url
 CCTV17农业农村高清,url
 CCTV-4K,url
 华数4K,url
+纯享4K,url
 欢笑剧场,url
 4K超清,url
 兵器科技,url
@@ -245,7 +255,6 @@ NewTV精品记录,url
 西藏卫视,url
 延边卫视,url
 安多卫视,url
-厦门卫视,url
 康巴卫视,url
 大湾区卫视,url
 香港卫视,url
@@ -282,7 +291,6 @@ ViuTV69,url
 RTHK31,url
 RTHK32,url
 RTHK35,url
-NOW星影台,url
 NOW爆谷台,url
 HOYTV,url
 HOY77,url
@@ -389,7 +397,6 @@ discovery,url
 history,url
 CCTV-15,url
 风云音乐,url
-音乐现场,url
 LUXE TV,url
 EYETV旅游,url
 亚洲旅游,url
@@ -451,6 +458,7 @@ EYE旅游,url
 HBO Family,url
 好莱坞电影台,url
 Animax,url
+龙祥电影,url
 龍華電影,url
 東森洋片,url
 東森電影,url
@@ -538,7 +546,6 @@ VOA美国之音,url
 NHK World,url
 NHK総合,url
 半岛国际新闻台,url
-东森美洲卫视,url
 HOY资讯台,url
 BBC,url
 CNN,url
