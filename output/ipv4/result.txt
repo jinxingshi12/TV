@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-11 06:20:59,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
+2025-09-11 18:21:25,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
 
 📺央视频道,#genre#
 CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
@@ -73,7 +73,6 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
@@ -86,7 +85,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$订阅源
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 国际,#genre#
@@ -450,6 +448,7 @@ EYE旅游,url
 HBO Family,url
 好莱坞电影台,url
 Animax,url
+龙祥电影,url
 龍華電影,url
 東森洋片,url
 東森電影,url
@@ -518,6 +517,7 @@ Nickelodeon,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
+24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 七龙珠,url
