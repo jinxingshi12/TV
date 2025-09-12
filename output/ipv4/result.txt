@@ -1,20 +1,12 @@
 🕘️更新时间,#genre#
-2025-09-12 06:22:22,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv$订阅源
+2025-09-12 18:23:07,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv$订阅源
 
 📺央视频道,#genre#
-CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv$订阅源
-CCTV-3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv$订阅源
-CCTV-4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv$订阅源
-CCTV-5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv$订阅源
-CCTV-7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv$订阅源
-CCTV-8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv$订阅源
-CCTV-9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv$订阅源
-CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv$订阅源
-CCTV-11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv$订阅源
+CCTV-1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv$订阅源
+CCTV-5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv$订阅源
+CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv$订阅源
 CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
-CCTV-13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
-CCTV-14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv$订阅源
-CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv$订阅源
+CCTV-17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv$订阅源
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv$订阅源
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil$订阅源
@@ -45,23 +37,17 @@ IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil$订�
 IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订阅源
 
 📡卫视频道,#genre#
-湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv$订阅源
-山东卫视,http://218.17.33.178:53290/tsfile/live/0131_1.m3u8?key=txiptv$订阅源
-广东卫视,http://124.228.160.15:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv$订阅源
-河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
-浙江卫视,http://218.17.33.178:53290/tsfile/live/0124_1.m3u8?key=txiptv$订阅源
-湖北卫视,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv$订阅源
-辽宁卫视,http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv$订阅源
+河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
 重庆卫视,http://222.218.122.23:8188/udp/239.81.0.47:4056$订阅源
+内蒙古卫视,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv$订阅源
 内蒙古卫视,http://222.218.122.23:8188/udp/239.81.0.54:4056$订阅源
 宁夏卫视,http://222.218.122.23:8188/udp/239.81.0.60:4056$订阅源
-甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv$订阅源
 云南卫视,http://222.218.122.23:8188/udp/239.81.0.45:4056$订阅源
 青海卫视,http://222.218.122.23:8188/udp/239.81.0.53:4056$订阅源
 新疆卫视,http://222.218.122.23:8188/udp/239.81.0.46:4056$订阅源
+新疆卫视,http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv$订阅源
 兵团卫视,http://222.218.122.23:8188/udp/239.81.0.213:4056$订阅源
 
 🏠河北频道,#genre#
@@ -85,9 +71,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 
 🎬电影频道,#genre#
-东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$订阅源
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
-东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$订阅源
+东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8$订阅源
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$订阅源
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701$订阅源
@@ -95,10 +79,10 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil$订阅源
@@ -107,7 +91,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新动漫,rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
-新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 国际,#genre#
@@ -118,15 +101,25 @@ NHK世界,http://61.221.215.25:8800/hls/51/index.m3u8$订阅源
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$订阅源
 
 🏛轮播剧场,#genre#
+粤语电影3,http://epg.112114.xyz/douyu/1226741$订阅源
 
 🈳无结果频道,#genre#
-CCTV-1,url
+CCTV-2,url
+CCTV-3,url
+CCTV-4,url
 CCTV-4美洲,url
 CCTV-4欧洲,url
-CCTV-5+,url
+CCTV-5,url
 CCTV-6,url
+CCTV-7,url
+CCTV-8,url
+CCTV-9,url
+CCTV-10,url
+CCTV-11,url
+CCTV-13,url
+CCTV-14,url
+CCTV-15,url
 CCTV-16,url
-CCTV-17,url
 CETV早教,url
 CGTN英语,url
 CGTN俄语,url
@@ -228,21 +221,29 @@ NewTV精品记录,url
 爱浪漫,url
 爱动漫,url
 北京卫视,url
+湖南卫视,url
 东方卫视,url
 四川卫视,url
 天津卫视,url
 安徽卫视,url
+山东卫视,url
 深圳卫视,url
+广东卫视,url
 广西卫视,url
 江苏卫视,url
+江西卫视,url
 河北卫视,url
+浙江卫视,url
 海南卫视,url
+湖北卫视,url
 山西卫视,url
 东南卫视,url
 贵州卫视,url
+辽宁卫视,url
 黑龙江卫视,url
 陕西卫视,url
 吉林卫视,url
+甘肃卫视,url
 三沙卫视,url
 西藏卫视,url
 延边卫视,url
@@ -450,6 +451,7 @@ EYE旅游,url
 HBO Family,url
 好莱坞电影台,url
 Animax,url
+龙祥电影,url
 龍華電影,url
 東森洋片,url
 東森電影,url
@@ -537,7 +539,6 @@ VOA美国之音,url
 NHK World,url
 NHK総合,url
 半岛国际新闻台,url
-东森美洲卫视,url
 HOY资讯台,url
 BBC,url
 CNN,url
@@ -554,4 +555,3 @@ History,url
 我爱我家,url
 周星驰,url
 宇哥电影,url
-粤语电影3,url
