@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-13 06:21:18,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
+2025-09-13 18:20:28,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
 
 📺央视频道,#genre#
 CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$订阅源
@@ -33,9 +33,7 @@ IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil$订�
 IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订阅源
 
 📡卫视频道,#genre#
-四川卫视,http://218.17.33.178:53290/tsfile/live/0123_1.m3u8?key=txiptv$订阅源
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
-河南卫视,http://kds.hejintv.com/tv/hn.php$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 重庆卫视,http://222.218.122.23:8188/udp/239.81.0.47:4056$订阅源
 内蒙古卫视,http://222.218.122.23:8188/udp/239.81.0.54:4056$订阅源
@@ -74,7 +72,6 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701$订阅源
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv$订阅源
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn$订阅源
 
 🪁动画频道,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
@@ -222,6 +219,7 @@ NewTV精品记录,url
 北京卫视,url
 湖南卫视,url
 东方卫视,url
+四川卫视,url
 天津卫视,url
 安徽卫视,url
 山东卫视,url
@@ -449,6 +447,7 @@ EYE旅游,url
 HBO Family,url
 好莱坞电影台,url
 Animax,url
+龙祥电影,url
 龍華電影,url
 東森洋片,url
 東森電影,url
