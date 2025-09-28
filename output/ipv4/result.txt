@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-28 18:26:15,http://180.213.170.24:8188/rtp/239.5.1.4:5000$订阅源
+2025-09-29 06:20:37,http://180.213.170.24:8188/rtp/239.5.1.4:5000$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://180.213.170.24:8188/rtp/239.5.1.4:5000$订阅源
 CCTV-3,http://180.213.170.24:8188/rtp/239.5.1.101:5000$订阅源
-CCTV-3,http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce08f3&c=1857461344&m3u8=true$订阅源
 CCTV-4,http://180.213.170.24:8188/rtp/239.5.1.6:5000$订阅源
 CCTV-5,http://180.213.170.24:8188/rtp/239.5.1.102:5000$订阅源
 CCTV-5+,http://180.213.170.24:8188/rtp/239.5.1.7:5000$订阅源
@@ -54,21 +53,20 @@ IPTV法治,rtsp://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil$订�
 
 📡卫视频道,#genre#
 湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000$订阅源
-湖南卫视,http://113.26.202.52:1299/tsfile/live/0128_1.m3u8$订阅源
 东方卫视,http://180.213.170.24:8188/rtp/239.5.1.81:5000$订阅源
 深圳卫视,http://180.213.170.24:8188/rtp/239.5.1.19:5000$订阅源
 广西卫视,http://180.213.170.24:8188/rtp/239.5.1.110:5000$订阅源
 江西卫视,http://180.213.170.24:8188/rtp/239.5.1.84:5000$订阅源
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0138_1.m3u8$订阅源
 河北卫视,http://180.213.170.24:8188/rtp/239.5.1.82:5000$订阅源
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws$订阅源
 河南卫视,http://180.213.170.24:8188/rtp/239.5.1.109:5000$订阅源
-河南卫视,http://223.167.230.34:4022/rtp/239.45.0.3:5140$订阅源
 河南卫视,http://180.154.61.39:4022/rtp/239.45.0.3:5140$订阅源
+河南卫视,http://223.167.230.34:4022/rtp/239.45.0.3:5140$订阅源
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140$订阅源
 浙江卫视,http://180.213.170.24:8188/rtp/239.5.1.14:5000$订阅源
 海南卫视,http://180.213.170.24:8188/rtp/239.5.1.111:5000$订阅源
 湖北卫视,http://180.213.170.24:8188/rtp/239.5.1.20:5000$订阅源
+贵州卫视,http://101.74.28.175:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000$订阅源
 陕西卫视,http://115.171.216.73:4000/rtp/225.1.8.154:8140$订阅源
 
@@ -82,22 +80,17 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$订阅源
 澳门MACAU,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8$订阅源
 
 台湾,#genre#
-NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$订阅源
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8$订阅源
 
 🎬新马,#genre#
 
 🎬记录频道,#genre#
-DiscoveryHD,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8$订阅源
-DiscoveryHD,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8$订阅源
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2$订阅源
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 
 🎬电影频道,#genre#
-CHC动作电影,https://isus.cc/php/huya.php?id=11602077$订阅源
-东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$订阅源
-东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$订阅源
+东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8$订阅源
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$订阅源
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701$订阅源
@@ -127,7 +120,6 @@ NHK世界,http://61.221.215.25:8800/hls/51/index.m3u8$订阅源
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$订阅源
 
 🏛轮播剧场,#genre#
-周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402$订阅源
 粤语电影3,http://epg.112114.xyz/douyu/1226741$订阅源
 
 🈳无结果频道,#genre#
@@ -240,7 +232,6 @@ NewTV精品记录,url
 江苏卫视,url
 山西卫视,url
 东南卫视,url
-贵州卫视,url
 辽宁卫视,url
 黑龙江卫视,url
 内蒙古卫视,url
@@ -317,6 +308,7 @@ TVBS亚洲,url
 TLC旅游生活,url
 AXN,url
 Animax HD,url
+NBA,url
 TSN 4,url
 Warner TV,url
 BBC lifestyle,url
@@ -392,6 +384,7 @@ CCM 天映经典,url
 野生动物,url
 动物星球,url
 DiscoveryAsia,url
+DiscoveryHD,url
 discovery,url
 探索科学,url
 history,url
@@ -402,6 +395,7 @@ EYETV旅游,url
 亚洲旅游,url
 美食星球,url
 CHC家庭影院,url
+CHC动作电影,url
 KIX,url
 凤凰电影,url
 ROCK Action,url
@@ -546,7 +540,6 @@ NHK World,url
 NHK総合,url
 新加坡国际,url
 半岛国际新闻台,url
-东森美洲卫视,url
 HOY资讯台,url
 BBC,url
 CNN,url
@@ -561,4 +554,5 @@ MovieSphere,url
 BBC_Earth,url
 History,url
 我爱我家,url
+周星驰,url
 宇哥电影,url
