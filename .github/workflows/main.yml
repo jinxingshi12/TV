@@ -2,7 +2,8 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22,10 * * * /3* *'
+      cron: '0 22 * * *'  # 每天 22:00 UTC 执行，但实际每三天会根据 workflow 逻辑控制
+    - cron: '0 22 * * 1,4'  # 每周一和周四 22:00 UTC 执行
   workflow_dispatch:
     branches:
       - master
